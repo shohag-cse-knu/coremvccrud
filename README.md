@@ -4,7 +4,7 @@ Basic CRUD operation in .NET Core MVC has been implemented. A home page, Employe
 
 ## Project Details
 
-- **GitHub Repository**: [https://github.com/shohag-cse-knu/coremvccrud.git](https://github.com/shohag-cse-knu/coremvccrud.git)
+- **GitHub Repository**: [https://github.com/shohag-cse-knu/core-mvc-crud.git](https://github.com/shohag-cse-knu/core-mvc-crud.git)
 
 ## Features
 
@@ -25,7 +25,7 @@ Basic CRUD operation in .NET Core MVC has been implemented. A home page, Employe
 git clone https://github.com/shohag-cse-knu/coremvccrud.git
 ````
 ### 2. Change the Connection String
-Change the MvcDemoConnectionString in appsettings.json according to your server or PC name.
+Change the MvcDemoConnectionString in appsettings.json to match your server or PC name.
 
 ## Technologies Used
 
