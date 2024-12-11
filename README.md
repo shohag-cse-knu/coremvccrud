@@ -1,4 +1,4 @@
-# .NET Core CRUD operation
+# .NET Core MVC CRUD operation
 
 Basic CRUD operation in .NET Core MVC has been implemented. A home page, Employee Listing, adding and deletion were implemented in this application.
 
